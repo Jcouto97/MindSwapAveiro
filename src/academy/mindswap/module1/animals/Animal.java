@@ -1,4 +1,4 @@
-package academy.mindswap;
+package academy.mindswap.module1.animals;
 
 public class Animal {
     private int age;

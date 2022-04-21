@@ -1,4 +1,4 @@
-package academy.mindswap;
+package academy.mindswap.module1.animals;
 
 public class Pig extends Animal {
     public Pig(String name) {
